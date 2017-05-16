@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+ion-list radio-group>
+  <ion-list-header>
+    ${1}
+  </ion-list-header>
+
+  <ion-item>
+    <ion-label>${2}</ion-label>
+    <ion-radio checked="true" value="${3}"></ion-radio>
+  </ion-item>
+</ion-list>
+]]></content>
+  <tabTrigger>ion-radio group</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

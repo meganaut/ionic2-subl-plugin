@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+ion-segment [(ngModel)]="${1}">
+  <ion-segment-button value="${2}">
+    ${3}
+  </ion-segment-button>
+</ion-segment>
+]]></content>
+  <tabTrigger>ion-segment</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

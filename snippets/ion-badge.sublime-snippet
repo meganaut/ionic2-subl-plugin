@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+ion-badge>${1}</ion-badge>
+]]></content>
+  <tabTrigger>ion-badge</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

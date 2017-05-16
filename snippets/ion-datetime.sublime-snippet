@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+ion-datetime displayFormat="${1:h:mm A}" pickerFormat="${2:h mm A}" [(ngModel)]="${3:TODO}"></ion-datetime>
+]]></content>
+  <tabTrigger>ion-datetime</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

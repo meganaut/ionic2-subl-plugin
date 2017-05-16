@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+button ion-button clear>${1}</button>
+]]></content>
+  <tabTrigger>ion-button clear</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

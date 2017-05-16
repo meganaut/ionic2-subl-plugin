@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+ion-searchbar (ionInput)="${1}"></ion-searchbar>
+]]></content>
+  <tabTrigger>ion-searchbar</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

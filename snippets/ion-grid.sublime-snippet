@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+  ion-grid>
+  <ion-row>
+    <ion-col col-${1}>
+      ${2}
+    </ion-col>
+  </ion-row>
+</ion-grid>
+]]></content>
+  <tabTrigger>ion-grid</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

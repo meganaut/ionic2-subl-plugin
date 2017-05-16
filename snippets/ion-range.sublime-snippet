@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+ion-range [(ngModel)]="${1}">
+  <ion-icon range-left small name="${2}"></ion-icon>
+  <ion-icon range-right name="${2}"></ion-icon>
+</ion-range>
+]]></content>
+  <tabTrigger>ion-range</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

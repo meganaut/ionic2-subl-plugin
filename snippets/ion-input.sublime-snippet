@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+ion-input type="${1}"${2: value="${3}"}></ion-input>
+]]></content>
+  <tabTrigger>ion-input</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

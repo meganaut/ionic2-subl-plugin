@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+  ion-fab ${1}>
+    <button ion-fab><ion-icon name="${2}"></ion-icon></button>
+  </ion-fab>
+]]></content>
+  <tabTrigger>ion-fab single</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+ion-select [(ngModel)]="${1}">
+  <ion-option value="${2}">${3}</ion-option>
+</ion-select>
+]]></content>
+  <tabTrigger>ion-select</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+  ion-col col-${1}>
+  	${2}
+	</ion-col>
+]]></content>
+  <tabTrigger>ion-col</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+ion-navbar>
+	${1}
+</ion-navbar>
+]]></content>
+  <tabTrigger>ion-navbar</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

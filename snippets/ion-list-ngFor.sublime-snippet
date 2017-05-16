@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+ion-list>
+  <ion-item *ngFor="let ${1:item} of ${2:items}">
+  	${3}
+  </ion-item>
+</ion-list>
+]]></content>
+  <tabTrigger>ion-list ngFor</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

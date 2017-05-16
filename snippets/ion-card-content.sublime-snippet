@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+ion-card-content>
+  ${1}
+</ion-card-content>
+]]></content>
+  <tabTrigger>ion-card-content</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

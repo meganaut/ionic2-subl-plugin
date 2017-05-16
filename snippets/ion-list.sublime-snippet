@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+ion-list>
+  <ion-list-header>
+    ${1}
+  </ion-list-header>
+  <ion-item>${2}</ion-item>
+</ion-list>
+]]></content>
+  <tabTrigger>ion-list</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

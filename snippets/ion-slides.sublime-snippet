@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+ion-slides${1: pager}>
+  <ion-slide>
+    ${2}
+  </ion-slide>
+</ion-slides>
+]]></content>
+  <tabTrigger>ion-slides</tabTrigger>
+  <scope>text.html</scope>
+</snippet>
